@@ -7,7 +7,11 @@
 
 <!-- ANIMATED FUTURISTIC HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:003B20,70:003B66,100:050505&height=220&section=header&text=SOHAM%20DATTA&fontSize=52&fontColor=00FF9C&animation=twinkling&fontAlignY=35&desc=TEACHER%20%7C%20DEVELOPER%20%7C%20LINUX%20ENTHUSIAST&descSize=14&descAlignY=57&descColor=00D9FF" alt="Soham Datta — Matrix and TRON themed animated header" />
+<img
+  width="100%"
+  src="./matrix-rain.gif"
+  alt="Matrix rain animation — Soham Datta"
+/>
 
 <!-- TYPING ANIMATION -->
 
@@ -50,18 +54,32 @@ I like building useful tools, experimenting with ideas, and turning small curios
 
 ## `> FEATURED_PROJECT.exe`
 
+<h2> &gt; FEATURED_PROJECT.exe </h2>
+
 <div align="center">
 
 <a href="https://github.com/soham3301/port-watcher">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=soham3301&repo=port-watcher&theme=transparent&hide_border=true&title_color=00FF9C&icon_color=00D9FF&text_color=C9D1D9&bg_color=0D1117" alt="Port Watcher repository card" />
+  <img
+    src="./port-watcher.png"
+    width="90%"
+    alt="Screenshot of Port Watcher"
+/>
 </a>
 
-### ⚡ Port Watcher
+<br/>
 
-My favorite project. Explore the repository to discover what it does, how it works, and how it evolves.
+<h3>⚡ Port Watcher</h3>
+
+<p>
+My favorite project — explore the code, discover its features,
+and follow its development.
+</p>
 
 <a href="https://github.com/soham3301/port-watcher">
-  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-00FF9C?style=for-the-badge&logo=github&logoColor=000000" alt="Explore Port Watcher" />
+  <img
+    src="https://img.shields.io/badge/EXPLORE_REPOSITORY-00FF9C?style=for-the-badge&logo=github&logoColor=000000"
+    alt="Explore Port Watcher repository"
+/>
 </a>
 
 </div>
