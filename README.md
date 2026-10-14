@@ -12,7 +12,7 @@
 <!-- TYPING ANIMATION -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Teaching+kids+to+code+%3C%2F%3E;Building+tools+for+the+curious+mind;Linux+is+home.+Code+is+the+language.;Turning+ideas+into+working+software;Exploring+the+digital+frontier..." alt="Typing animation: Teaching kids to code, building tools, and exploring the digital frontier" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Teaching+students+to+code+%3C%2F%3E;Building+tools+for+the+curious+mind;Linux+is+home.+Code+is+the+language.;Turning+ideas+into+working+software;Exploring+the+digital+frontier..." alt="Typing animation: Teaching Students to code, building tools, and exploring the digital frontier" />
 </a>
 
 <br/>
@@ -40,7 +40,7 @@ INTERESTS : Software, Linux, Open Source, Computer Science
 MINDSET   : Learn. Build. Teach. Repeat.
 ```
 
-I'm a programming teacher who loves helping kids discover the magic of code. I've been coding since childhood, and my curiosity about computers has never stopped growing.
+I'm a programming teacher who loves helping students discover the magic of code. I've been coding since childhood, and my curiosity about computers has never stopped growing.
 
 I'm a long-time Linux user, a computer enthusiast, and someone who enjoys exploring how things work beneath the surface.
 
