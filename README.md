@@ -22,13 +22,13 @@
 <br/>
 
 <a href="https://www.codekmp.in/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=222" alt="Portfolio" />
 </a>
 <a href="https://github.com/soham3301?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=000000" alt="Projects" />
+  <img src="https://img.shields.io/badge/PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=222" alt="Projects" />
 </a>
 <a href="https://github.com/soham3301">
-  <img src="https://img.shields.io/badge/OPEN_SOURCE-9D5CFF?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Open source" />
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-9D5CFF?style=for-the-badge&logo=github&logoColor=222" alt="Open source" />
 </a>
 
 </div>
